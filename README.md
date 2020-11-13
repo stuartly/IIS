@@ -1,5 +1,5 @@
 # 情报学 一流期刊列表
-## Journals of Information and Intelligence Science (IIS)
+Journals of Information and Intelligence Science (IIS)
 
 
 # CSSCI
@@ -17,10 +17,8 @@
 
 # SSCI
 + [International Journal of Information Management](https://www.journals.elsevier.com/international-journal-of-information-management) ([IJIM](https://dblp.uni-trier.de/db/journals/ijinfoman/index.html))
-
 + [MIS Quarterly](https://misq.org/archive/)([MISQ](https://dblp.org/db/journals/misq/index.html))
 + [Journal of Strategic Information Systems](https://www.journals.elsevier.com/the-journal-of-strategic-information-systems)
-
 + [Information and Management](https://www.journals.elsevier.com/information-and-management)([IAM](https://dblp.uni-trier.de/db/journals/iam/index.html))
 + [Government Information Quarterly](https://www.journals.elsevier.com/government-information-quarterly)([GIQ](https://dblp.uni-trier.de/db/journals/giq/index.html))
 + [Information Processing & Management](https://www.journals.elsevier.com/information-processing-and-management)([IPM](https://dblp.uni-trier.de/db/journals/ipm/index.html))
