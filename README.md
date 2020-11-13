@@ -1,5 +1,5 @@
 # 情报学 一流期刊列表
-Information and Intelligence Science (IIS)
+## Journals of Information and Intelligence Science (IIS)
 
 
 # CSSCI
