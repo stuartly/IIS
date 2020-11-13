@@ -36,4 +36,9 @@
 + [Information Technology for Development](https://www.tandfonline.com/toc/titd20/current)([ITD](https://dblp.uni-trier.de/db/journals/itd/index.html))
 + [Social Science Computer Review](https://journals.sagepub.com/home/ssc)([SSC](https://dblp.uni-trier.de/search?q=Social+Science+Computer+Review))
 + [Journal of Enterprise Information Management](https://www.emerald.com/insight/publication/issn/1741-0398)([JEIM](https://dblp.uni-trier.de/db/journals/jeim/index.html))
++ [European Journal of Information Systems](https://www.tandfonline.com/toc/tjis20/current)([EJIS](https://dblp.uni-trier.de/db/journals/ejis/index.html))
++ [Information Technology and Management](https://www.springer.com/journal/10799)([IDT]（https://dblp.uni-trier.de/db/journals/itd/index.html))
++ [Journal of Information Science](https://journals.sagepub.com/home/jis)
++ [Journal of Global Information Management](https://www.igi-global.com/journal/journal-global-information-management/1070)（[JGIM](https://dblp.org/db/journals/jgim/index.html)）
 + 
+
