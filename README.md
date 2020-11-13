@@ -30,3 +30,10 @@
 + [International Journal of Computer-Supported Collaborative Learning](https://www.springer.com/journal/11412)([CSCL](https://dblp.uni-trier.de/db/journals/cscl/index.html))
 + [Journal of Management Information Systems](https://www.tandfonline.com/loi/mmis20)([JMIS](https://dblp.uni-trier.de/db/journals/jmis/index.html))
 + [Journal of Information Technology](https://journals.sagepub.com/home/jin)([JIT](https://dblp.uni-trier.de/db/journals/jitech/index.html))
++ [Information Systems Research](https://www.informs.org/Publications/INFORMS-Journals/Information-Systems-Research)([ISR](https://dblp.uni-trier.de/db/journals/isr/index.html))
++ [Journal of Association for Information Systems](https://aisnet.org/default.aspx)([JAIS](https://dblp.uni-trier.de/db/journals/jais/index.html))
++ [Scientometrics](https://www.springer.com/journal/11192)([Scientometrics](https://dblp.uni-trier.de/db/journals/scientometrics/index.html))
++ [Information Technology for Development](https://www.tandfonline.com/toc/titd20/current)([ITD](https://dblp.uni-trier.de/db/journals/itd/index.html))
++ [Social Science Computer Review](https://journals.sagepub.com/home/ssc)([SSC](https://dblp.uni-trier.de/search?q=Social+Science+Computer+Review))
++ [Journal of Enterprise Information Management](https://www.emerald.com/insight/publication/issn/1741-0398)([JEIM](https://dblp.uni-trier.de/db/journals/jeim/index.html))
++ 
