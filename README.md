@@ -1,5 +1,24 @@
-# 情报学 一流期刊列表
+# 信息与情报科学期刊列表
 Journals of Information and Intelligence Science (IIS)
+
+
+# Information Management and Systems
++ [Information Systems Research](https://www.informs.org/Publications/INFORMS-Journals/Information-Systems-Research)([ISR](https://dblp.uni-trier.de/db/journals/isr/index.html))
++ [Journal of Management Information Systems](https://www.tandfonline.com/loi/mmis20)([JMIS](https://dblp.uni-trier.de/db/journals/jmis/index.html))
++ [Journal of Association for Information Systems](https://aisnet.org/default.aspx)([JAIS](https://dblp.uni-trier.de/db/journals/jais/index.html))
++ [MIS Quarterly](https://misq.org/archive/)([MISQ](https://dblp.org/db/journals/misq/index.html))
+
+
+# Intelligence Science
++ [Journal of Association for Information Science and Technology](https://asistdl.onlinelibrary.wiley.com/journal/23301643)([JASIS](https://dblp.uni-trier.de/db/journals/jasis/index.html))
++ [Information Processing & Management](https://www.journals.elsevier.com/information-processing-and-management)([IPM](https://dblp.uni-trier.de/db/journals/ipm/index.html))
++ [Journal of Information Science](https://journals.sagepub.com/home/jis)([JIS](https://dblp.uni-trier.de/db/journals/jis/index.html))
++ [Journal of Informetrics](https://www.journals.elsevier.com/journal-of-informetrics)([JOI](https://dblp.uni-trier.de/db/journals/joi/index.html))
++ [Scientometrics](https://www.springer.com/journal/11192)([Scientometrics](https://dblp.uni-trier.de/db/journals/scientometrics/index.html))
++ [情报学报](https://navi.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=QBXB)
+
+
+---
 
 
 # CSSCI
