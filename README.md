@@ -10,12 +10,12 @@ Journals of Information and Intelligence Science (IIS)
 
 
 # 情报
++ [情报学报](https://navi.cnki.net/KNavi/JournalDetail?pcode=CJFD&pykm=QBXB&Year=&Issue=)
 + [Journal of Association for Information Science and Technology](https://asistdl.onlinelibrary.wiley.com/journal/23301643)([JASIS](https://dblp.uni-trier.de/db/journals/jasis/index.html))
 + [Information Processing & Management](https://www.journals.elsevier.com/information-processing-and-management)([IPM](https://dblp.uni-trier.de/db/journals/ipm/index.html))
 + [Journal of Information Science](https://journals.sagepub.com/home/jis)([JIS](https://dblp.uni-trier.de/db/journals/jis/index.html))
 + [Journal of Informetrics](https://www.journals.elsevier.com/journal-of-informetrics)([JOI](https://dblp.uni-trier.de/db/journals/joi/index.html))
 + [Scientometrics](https://www.springer.com/journal/11192)([Scientometrics](https://dblp.uni-trier.de/db/journals/scientometrics/index.html))
-+ [情报学报](https://navi.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=QBXB)
 
 
 # 图书馆
@@ -26,13 +26,18 @@ Journals of Information and Intelligence Science (IIS)
 
 
 # 编辑出版
-+ [中国出版]
++ [编辑学报](https://navi.cnki.net/KNavi/JournalDetail?pcode=CJFD&pykm=BJXB&Year=&Issue=)
++ [中国出版](https://navi.cnki.net/KNavi/JournalDetail?pcode=CJFD&pykm=ZGCB&Year=&Issue=)
++ [Journal of Scholarly Publishing](https://utpjournals.press/loi/jsp)
++ [Learned Publishing](https://onlinelibrary.wiley.com/loi/17414857)
 
 
 
 # 档案
-+ [档案学通讯]
-
++ [档案学通讯](http://journal14.magtechjournal.com/Jwk3_daxtx/CN/1001-201X/home.shtml)
++ [档案学研究](http://journal12.magtechjournal.com/Jwk_dax/CN/1002-1620/home.shtml)
++ [Archival Science](https://www.springer.com/journal/10502)
++ [Archivaria](https://www.archivists.ca/Archivaria)
 
 ---
 
