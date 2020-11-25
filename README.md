@@ -36,8 +36,6 @@ Journals of Information and Intelligence Science (IIS)
 ## 档案
 + [档案学通讯](http://journal14.magtechjournal.com/Jwk3_daxtx/CN/1001-201X/home.shtml)
 + [档案学研究](http://journal12.magtechjournal.com/Jwk_dax/CN/1002-1620/home.shtml)
-+ [Archival Science](https://www.springer.com/journal/10502)
-+ [Archivaria](https://www.archivists.ca/Archivaria)
 + [African Journal of Library Archives and Information Science](https://www.ajol.info/index.php/ajlais)
 
 ---
