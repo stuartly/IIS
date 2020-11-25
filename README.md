@@ -2,14 +2,14 @@
 Journals of Information and Intelligence Science (IIS)
 
 
-# Information Management and Systems
+# 信息管理与系统
 + [Information Systems Research](https://www.informs.org/Publications/INFORMS-Journals/Information-Systems-Research)([ISR](https://dblp.uni-trier.de/db/journals/isr/index.html))
 + [Journal of Management Information Systems](https://www.tandfonline.com/loi/mmis20)([JMIS](https://dblp.uni-trier.de/db/journals/jmis/index.html))
 + [Journal of Association for Information Systems](https://aisnet.org/default.aspx)([JAIS](https://dblp.uni-trier.de/db/journals/jais/index.html))
 + [MIS Quarterly](https://misq.org/archive/)([MISQ](https://dblp.org/db/journals/misq/index.html))
 
 
-# Intelligence Science
+# 情报
 + [Journal of Association for Information Science and Technology](https://asistdl.onlinelibrary.wiley.com/journal/23301643)([JASIS](https://dblp.uni-trier.de/db/journals/jasis/index.html))
 + [Information Processing & Management](https://www.journals.elsevier.com/information-processing-and-management)([IPM](https://dblp.uni-trier.de/db/journals/ipm/index.html))
 + [Journal of Information Science](https://journals.sagepub.com/home/jis)([JIS](https://dblp.uni-trier.de/db/journals/jis/index.html))
@@ -18,7 +18,24 @@ Journals of Information and Intelligence Science (IIS)
 + [情报学报](https://navi.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=QBXB)
 
 
+# 图书馆
++ [中国图书馆学报]
++ [LIBRARY & INFORMATION SCIENCE RESEARCH]
++ [LIBRARY QUARTERLY]
+
+
+# 编辑出版
++ [中国出版]
+
+
+
+# 档案
++ [档案学通讯]
+
+
 ---
+
+
 
 
 # CSSCI
