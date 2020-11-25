@@ -1,15 +1,15 @@
-# 信息与情报科学期刊列表
+# 图情学科推荐期刊列表
 Journals of Information and Intelligence Science (IIS)
 
 
-# 信息管理与系统
+## 信息管理与系统
 + [Information Systems Research](https://www.informs.org/Publications/INFORMS-Journals/Information-Systems-Research)([ISR](https://dblp.uni-trier.de/db/journals/isr/index.html))
 + [Journal of Management Information Systems](https://www.tandfonline.com/loi/mmis20)([JMIS](https://dblp.uni-trier.de/db/journals/jmis/index.html))
 + [Journal of Association for Information Systems](https://aisnet.org/default.aspx)([JAIS](https://dblp.uni-trier.de/db/journals/jais/index.html))
 + [MIS Quarterly](https://misq.org/archive/)([MISQ](https://dblp.org/db/journals/misq/index.html))
 
 
-# 情报
+## 情报
 + [情报学报](https://navi.cnki.net/KNavi/JournalDetail?pcode=CJFD&pykm=QBXB&Year=&Issue=)
 + [Journal of Association for Information Science and Technology](https://asistdl.onlinelibrary.wiley.com/journal/23301643)([JASIS](https://dblp.uni-trier.de/db/journals/jasis/index.html))
 + [Information Processing & Management](https://www.journals.elsevier.com/information-processing-and-management)([IPM](https://dblp.uni-trier.de/db/journals/ipm/index.html))
@@ -18,14 +18,14 @@ Journals of Information and Intelligence Science (IIS)
 + [Scientometrics](https://www.springer.com/journal/11192)([Scientometrics](https://dblp.uni-trier.de/db/journals/scientometrics/index.html))
 
 
-# 图书馆
+## 图书馆
 + [中国图书馆学报](https://navi.cnki.net/KNavi/JournalDetail?pcode=CJFD&pykm=ZGTS&Year=&Issue=)
 + [Library Quarterly](https://www.journals.uchicago.edu/journals/lq/about)
 + [Journal of Academic Librarianship](https://www.journals.elsevier.com/the-journal-of-academic-librarianship)
 + [Library Hi Tech](https://www.emeraldgrouppublishing.com/journal/lht?id=LHT)
 
 
-# 编辑出版
+## 编辑出版
 + [编辑学报](https://navi.cnki.net/KNavi/JournalDetail?pcode=CJFD&pykm=BJXB&Year=&Issue=)
 + [中国出版](https://navi.cnki.net/KNavi/JournalDetail?pcode=CJFD&pykm=ZGCB&Year=&Issue=)
 + [Journal of Scholarly Publishing](https://utpjournals.press/loi/jsp)
@@ -33,7 +33,7 @@ Journals of Information and Intelligence Science (IIS)
 
 
 
-# 档案
+## 档案
 + [档案学通讯](http://journal14.magtechjournal.com/Jwk3_daxtx/CN/1001-201X/home.shtml)
 + [档案学研究](http://journal12.magtechjournal.com/Jwk_dax/CN/1002-1620/home.shtml)
 + [Archival Science](https://www.springer.com/journal/10502)
