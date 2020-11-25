@@ -20,8 +20,9 @@ Journals of Information and Intelligence Science (IIS)
 
 # 图书馆
 + [中国图书馆学报]
-+ [LIBRARY & INFORMATION SCIENCE RESEARCH]
-+ [LIBRARY QUARTERLY]
++ [Library Quarterly](https://www.journals.uchicago.edu/journals/lq/about)
++ [Journal of Academic Librarianship](https://www.journals.elsevier.com/the-journal-of-academic-librarianship)
++ [Library Hi Tech](https://www.emeraldgrouppublishing.com/journal/lht?id=LHT)
 
 
 # 编辑出版
