@@ -19,7 +19,7 @@ Journals of Information and Intelligence Science (IIS)
 
 
 # 图书馆
-+ [中国图书馆学报]
++ [中国图书馆学报](https://navi.cnki.net/KNavi/JournalDetail?pcode=CJFD&pykm=ZGTS&Year=&Issue=)
 + [Library Quarterly](https://www.journals.uchicago.edu/journals/lq/about)
 + [Journal of Academic Librarianship](https://www.journals.elsevier.com/the-journal-of-academic-librarianship)
 + [Library Hi Tech](https://www.emeraldgrouppublishing.com/journal/lht?id=LHT)
