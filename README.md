@@ -26,8 +26,8 @@ Journals of Information and Intelligence Science (IIS)
 
 
 ## 编辑出版
++ [出版发行研究](https://cbfxyj.xueshu.com.cn/)
 + [编辑学报](https://navi.cnki.net/KNavi/JournalDetail?pcode=CJFD&pykm=BJXB&Year=&Issue=)
-+ [中国出版](https://navi.cnki.net/KNavi/JournalDetail?pcode=CJFD&pykm=ZGCB&Year=&Issue=)
 + [Journal of Scholarly Publishing](https://utpjournals.press/loi/jsp)
 + [Learned Publishing](https://onlinelibrary.wiley.com/loi/17414857)
 
