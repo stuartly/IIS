@@ -2,41 +2,38 @@
 Journals of Information and Intelligence Science (IIS)
 
 
-## 信息管理与系统
-+ [Information Systems Research](https://www.informs.org/Publications/INFORMS-Journals/Information-Systems-Research)([ISR](https://dblp.uni-trier.de/db/journals/isr/index.html))
-+ [Journal of Management Information Systems](https://www.tandfonline.com/loi/mmis20)([JMIS](https://dblp.uni-trier.de/db/journals/jmis/index.html))
-+ [Journal of Association for Information Systems](https://aisnet.org/default.aspx)([JAIS](https://dblp.uni-trier.de/db/journals/jais/index.html))
-+ [MIS Quarterly](https://misq.org/archive/)([MISQ](https://dblp.org/db/journals/misq/index.html))
-
-
 ## 情报
 + [情报学报](https://navi.cnki.net/KNavi/JournalDetail?pcode=CJFD&pykm=QBXB&Year=&Issue=)
-+ [Journal of Association for Information Science and Technology](https://asistdl.onlinelibrary.wiley.com/journal/23301643)([JASIS](https://dblp.uni-trier.de/db/journals/jasis/index.html))
++ [情报科学](https://navi.cnki.net/KNavi/JournalDetail?pcode=CJFD&pykm=QBKX&Year=&Issue=)
++ [情报杂志](https://navi.cnki.net/KNavi/JournalDetail?pcode=CJFD&pykm=QBZZ&Year=&Issue=)
++ [Journal of the Association for Information Science and Technology](https://asistdl.onlinelibrary.wiley.com/journal/23301643)([JASIS](https://dblp.uni-trier.de/db/journals/jasis/index.html))
 + [Information Processing & Management](https://www.journals.elsevier.com/information-processing-and-management)([IPM](https://dblp.uni-trier.de/db/journals/ipm/index.html))
 + [Journal of Information Science](https://journals.sagepub.com/home/jis)([JIS](https://dblp.uni-trier.de/db/journals/jis/index.html))
 + [Journal of Informetrics](https://www.journals.elsevier.com/journal-of-informetrics)([JOI](https://dblp.uni-trier.de/db/journals/joi/index.html))
 + [Scientometrics](https://www.springer.com/journal/11192)([Scientometrics](https://dblp.uni-trier.de/db/journals/scientometrics/index.html))
 
-
 ## 图书馆
-+ [中国图书馆学报](https://navi.cnki.net/KNavi/JournalDetail?pcode=CJFD&pykm=ZGTS&Year=&Issue=)
++ [中国图书馆学报](http://www.jlis.cn/)([JLIS](https://navi.cnki.net/KNavi/JournalDetail?pcode=CJFD&pykm=ZGTS&Year=&Issue=))
++ [大学图书馆学报](https://dxts.cbpt.cnki.net/)([J Acad Lib](https://navi.cnki.net/KNavi/JournalDetail?pcode=CJFD&pykm=DXTS&Year=&Issue=))
 + [Library Quarterly](https://www.journals.uchicago.edu/journals/lq/about)
 + [Journal of Academic Librarianship](https://www.journals.elsevier.com/the-journal-of-academic-librarianship)
-+ [Library Hi Tech](https://www.emeraldgrouppublishing.com/journal/lht?id=LHT)
++ [College & Research Libraries](https://crl.acrl.org/index.php/crl)([CRL](https://dblp.uni-trier.de/db/journals/crl/index.html))
 
+## 信息系统
++ [信息系统学报](http://cjis.sem.tsinghua.edu.cn/)([CJIS]((https://navi.cnki.net/KNavi/JournalDetail?pcode=CCJD&pykm=XTIB&Year=&Issue=))
++ [Information Systems Research](https://www.informs.org/Publications/INFORMS-Journals/Information-Systems-Research)([ISR](https://dblp.uni-trier.de/db/journals/isr/index.html))
++ [Journal of Management Information Systems](https://www.tandfonline.com/loi/mmis20)([JMIS](https://dblp.uni-trier.de/db/journals/jmis/index.html))
++ [Journal of Association for Information Systems](https://aisnet.org/default.aspx)([JAIS](https://dblp.uni-trier.de/db/journals/jais/index.html))
++ [MIS Quarterly](https://misq.org/archive/)([MISQ](https://dblp.org/db/journals/misq/index.html))
 
 ## 编辑出版
-+ [出版发行研究](https://cbfxyj.xueshu.com.cn/)
-+ [编辑学报](https://navi.cnki.net/KNavi/JournalDetail?pcode=CJFD&pykm=BJXB&Year=&Issue=)
-+ [Journal of Scholarly Publishing](https://utpjournals.press/loi/jsp)
-+ [Learned Publishing](https://onlinelibrary.wiley.com/loi/17414857)
++ [出版发行研究](https://navi.cnki.net/KNavi/JournalDetail?pcode=CJFD&pykm=CBFX)
++ [中国出版](http://www.zgcbbjb.cn/)
++ [编辑学报](http://bjxb.cessp.org.cn/ch/index.aspx)
++ [Journal of Scholarly Publishing](https://www.utpjournals.press/loi/jsp)
++ [Learned Publishing](https://dblp.uni-trier.de/db/journals/lp/index.html)
++ [SerialsReview](https://www.sciencedirect.com/journal/serials-review)
 
-
-
-## 档案
-+ [档案学通讯](http://journal14.magtechjournal.com/Jwk3_daxtx/CN/1001-201X/home.shtml)
-+ [档案学研究](http://journal12.magtechjournal.com/Jwk_dax/CN/1002-1620/home.shtml)
-+ [African Journal of Library Archives and Information Science](https://www.ajol.info/index.php/ajlais)
 
 ---
 
