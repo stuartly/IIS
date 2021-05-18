@@ -20,7 +20,7 @@ Journals of Information and Intelligence Science (IIS)
 + [College & Research Libraries](https://crl.acrl.org/index.php/crl)([CRL](https://dblp.uni-trier.de/db/journals/crl/index.html))
 
 ## 信息系统
-+ [信息系统学报](http://cjis.sem.tsinghua.edu.cn/)([CJIS]((https://navi.cnki.net/KNavi/JournalDetail?pcode=CCJD&pykm=XTIB&Year=&Issue=))
++ [信息系统学报](http://cjis.sem.tsinghua.edu.cn/)([CJIS]((https://navi.cnki.net/KNavi/JournalDetail?pcode=CCJD&pykm=XTIB&Year=&Issue=)))
 + [Information Systems Research](https://www.informs.org/Publications/INFORMS-Journals/Information-Systems-Research)([ISR](https://dblp.uni-trier.de/db/journals/isr/index.html))
 + [Journal of Management Information Systems](https://www.tandfonline.com/loi/mmis20)([JMIS](https://dblp.uni-trier.de/db/journals/jmis/index.html))
 + [Journal of Association for Information Systems](https://aisnet.org/default.aspx)([JAIS](https://dblp.uni-trier.de/db/journals/jais/index.html))
@@ -34,7 +34,10 @@ Journals of Information and Intelligence Science (IIS)
 + [Learned Publishing](https://dblp.uni-trier.de/db/journals/lp/index.html)
 + [SerialsReview](https://www.sciencedirect.com/journal/serials-review)
 
-
+## 档案
++ [档案学通讯](http://journal14.magtechjournal.com/Jwk3_daxtx/CN/1001-201X/home.shtml)
++ [档案学研究](http://journal12.magtechjournal.com/Jwk_dax/CN/1002-1620/home.shtml)
++ [African Journal of Library Archives and Information Science](https://www.ajol.info/index.php/ajlais)
 ---
 
 
