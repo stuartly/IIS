@@ -1,5 +1,5 @@
-# 图情学科推荐期刊列表
-Journals of Information and Intelligence Science (IIS)
+# 图情学科期刊列表
+# Journals of Information and Intelligence Science (IIS)
 
 
 ## 情报
@@ -58,7 +58,6 @@ Journals of Information and Intelligence Science (IIS)
 
 # SSCI
 + [International Journal of Information Management](https://www.journals.elsevier.com/international-journal-of-information-management) ([IJIM](https://dblp.uni-trier.de/db/journals/ijinfoman/index.html))
-+ [MIS Quarterly](https://misq.org/archive/)([MISQ](https://dblp.org/db/journals/misq/index.html))
 + [Journal of Strategic Information Systems](https://www.journals.elsevier.com/the-journal-of-strategic-information-systems)
 + [Information and Management](https://www.journals.elsevier.com/information-and-management)([IAM](https://dblp.uni-trier.de/db/journals/iam/index.html))
 + [Government Information Quarterly](https://www.journals.elsevier.com/government-information-quarterly)([GIQ](https://dblp.uni-trier.de/db/journals/giq/index.html))
@@ -75,8 +74,6 @@ Journals of Information and Intelligence Science (IIS)
 + [Scientometrics](https://www.springer.com/journal/11192)([Scientometrics](https://dblp.uni-trier.de/db/journals/scientometrics/index.html))
 + [Information Technology for Development](https://www.tandfonline.com/toc/titd20/current)([ITD](https://dblp.uni-trier.de/db/journals/itd/index.html))
 + [Social Science Computer Review](https://journals.sagepub.com/home/ssc)([SSC](https://dblp.uni-trier.de/search?q=Social+Science+Computer+Review))
-+ [Journal of Enterprise Information Management](https://www.emerald.com/insight/publication/issn/1741-0398)([JEIM](https://dblp.uni-trier.de/db/journals/jeim/index.html))
-+ [European Journal of Information Systems](https://www.tandfonline.com/toc/tjis20/current)([EJIS](https://dblp.uni-trier.de/db/journals/ejis/index.html))
 + [Information Technology and Management](https://www.springer.com/journal/10799)([IDT](https://dblp.uni-trier.de/db/journals/itd/index.html))
 + [Journal of Information Science](https://journals.sagepub.com/home/jis)([JIS](https://dblp.uni-trier.de/db/journals/jis/index.html))
 + [Journal of Association for Information Science and Technology](https://asistdl.onlinelibrary.wiley.com/journal/23301643)([JASIS](https://dblp.uni-trier.de/db/journals/jasis/index.html))
