@@ -42,27 +42,27 @@
 + Foundation of Software Engineering/ European Software Engineering Conference
 + ACM Symposium on Operating Systems Principles
 + Conference on Object-Oriented Programming Systems, Languages,and Applications
-+ International Conference on Automated Software Engineering
-+ International Conference on Software Engineering
++ [International Conference on Automated Software Engineering](https://dblp.org/db/conf/kbse/index.html)
++ [International Conference on Software Engineering](https://dblp.org/db/conf/icse/index.html)
 + USENIX Symposium on Operating Systems Design and Implementations
 
 ## 信管领域SSCI期刊
 + [International Journal of Information Management](https://dblp.org/db/journals/ijinfoman/index.html)
 + [Journal of Strategic Information Systems](https://dblp.org/db/journals/jsis/index.html)
 + [Information & Management](https://dblp.org/db/journals/iam/index.html)
-+ [Information Processing and Management](https://dblp.uni-trier.de/db/journals/ipm/index.html))
++ [Information Processing and Management](https://dblp.uni-trier.de/db/journals/ipm/index.html)
 + [Journal of Knowledge Management](https://dblp.org/db/journals/jkm/index.html)
 + [Journal of Informetrics](https://dblp.org/db/journals/joi/index.html)
-+ [Information Systems Journal](https://dblp.uni-trier.de/db/journals/isj/index.html))
-+ [Telematics and Informatics](https://dblp.uni-trier.de/db/journals/tele/index.html))
-+ [Journal of Management Information Systems](https://dblp.uni-trier.de/db/journals/jmis/index.html))
-+ [Journal of Information Technology](https://dblp.uni-trier.de/db/journals/jitech/index.html))
-+ [Information Systems Research](https://dblp.uni-trier.de/db/journals/isr/index.html))
-+ [Journal of Association for Information Systems]((https://dblp.uni-trier.de/db/journals/jais/index.html))
-+ [Scientometrics](https://dblp.uni-trier.de/db/journals/scientometrics/index.html))
++ [Information Systems Journal](https://dblp.uni-trier.de/db/journals/isj/index.html)
++ [Telematics and Informatics](https://dblp.uni-trier.de/db/journals/tele/index.html)
++ [Journal of Management Information Systems](https://dblp.uni-trier.de/db/journals/jmis/index.html)
++ [Journal of Information Technology](https://dblp.uni-trier.de/db/journals/jitech/index.html)
++ [Information Systems Research](https://dblp.uni-trier.de/db/journals/isr/index.html)
++ [Journal of Association for Information Systems](https://dblp.uni-trier.de/db/journals/jais/index.html)
++ [Scientometrics](https://dblp.uni-trier.de/db/journals/scientometrics/index.html)
 + [Information Technology for Development](https://dblp.uni-trier.de/db/journals/itd/index.html))
-+ [Social Science Computer Review](https://dblp.uni-trier.de/search?q=Social+Science+Computer+Review))
++ [Social Science Computer Review](https://dblp.uni-trier.de/search?q=Social+Science+Computer+Review)
 + [Information Technology and Management](https://dblp.uni-trier.de/db/journals/itd/index.html))
-+ [Journal of Information Science](https://dblp.uni-trier.de/db/journals/jis/index.html))
-+ [Journal of Association for Information Science and Technology](https://dblp.uni-trier.de/db/journals/jasis/index.html))
++ [Journal of Information Science](https://dblp.uni-trier.de/db/journals/jis/index.html)
++ [Journal of Association for Information Science and Technology](https://dblp.uni-trier.de/db/journals/jasis/index.html)
 
