@@ -59,9 +59,9 @@
 + [Information Systems Research](https://dblp.uni-trier.de/db/journals/isr/index.html)
 + [Journal of Association for Information Systems](https://dblp.uni-trier.de/db/journals/jais/index.html)
 + [Scientometrics](https://dblp.uni-trier.de/db/journals/scientometrics/index.html)
-+ [Information Technology for Development](https://dblp.uni-trier.de/db/journals/itd/index.html))
++ [Information Technology for Development](https://dblp.uni-trier.de/db/journals/itd/index.html)
 + [Social Science Computer Review](https://dblp.uni-trier.de/search?q=Social+Science+Computer+Review)
-+ [Information Technology and Management](https://dblp.uni-trier.de/db/journals/itd/index.html))
++ [Information Technology and Management](https://dblp.uni-trier.de/db/journals/itd/index.html)
 + [Journal of Information Science](https://dblp.uni-trier.de/db/journals/jis/index.html)
 + [Journal of Association for Information Science and Technology](https://dblp.uni-trier.de/db/journals/jasis/index.html)
 
