@@ -35,16 +35,15 @@
 ## 软工领域英文期刊与会议
 + [IEEE Transactions on Software Engineering](https://dblp.org/db/journals/tse/index.html)
 + [ACM Transactions on Programming Languages & Systems](https://dblp.org/db/journals/toplas/index.html)
-+ ACM Transactions on Software Engineering and Methodology
-+ Jouranl of Computer Science and Technology
-+ ACM SIGPLAN Symposium on Programming Language Design & Implementation
-+ ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages
-+ Foundation of Software Engineering/ European Software Engineering Conference
-+ ACM Symposium on Operating Systems Principles
-+ Conference on Object-Oriented Programming Systems, Languages,and Applications
++ [ACM Transactions on Software Engineering and Methodology](https://dblp.org/db/journals/tosem/index.html)
++ [Jouranl of Computer Science and Technology](https://dblp.org/db/journals/jcst/index.html)
++ [ACM SIGPLAN Symposium on Programming Language Design & Implementation](https://dblp.org/db/conf/pldi/index.html)
++ [ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages](https://dblp.org/db/conf/popl/index.html)
++ [Foundation of Software Engineering/ European Software Engineering Conference](https://dblp.org/db/conf/sigsoft/index.html)
++ [ACM Symposium on Operating Systems Principles](https://dblp.org/db/conf/sosp/index.html)
++ [Conference on Object-Oriented Programming Systems, Languages,and Applications](https://dblp.org/db/conf/oopsla/index.html)
 + [International Conference on Automated Software Engineering](https://dblp.org/db/conf/kbse/index.html)
 + [International Conference on Software Engineering](https://dblp.org/db/conf/icse/index.html)
-+ USENIX Symposium on Operating Systems Design and Implementations
 
 ## 信管领域SSCI期刊
 + [International Journal of Information Management](https://dblp.org/db/journals/ijinfoman/index.html)
