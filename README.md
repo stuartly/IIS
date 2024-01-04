@@ -11,6 +11,12 @@
 + [计算机研究与发展](https://navi.cnki.net/knavi/journals/JFYZ/detail?uniplatform=NZKPT)
 + [中国科学：信息科学](https://navi.cnki.net/knavi/journals/PZKX/detail?uniplatform=NZKPTp)
 
+## Nature系列
++ [Nature](https://www.nature.com/)
++ [Nature Machine Intelligence](https://www.nature.com/natmachintell/)
++ [Nature Human Behaviour](https://www.nature.com/nathumbehav/)
++ [Nature Communications](https://www.nature.com/ncomms/)
++ [Humanities & Social Sciences Communications](https://www.nature.com/palcomms/)
 
 ## 数据挖掘领域英文期刊与会议
 + [ACM Transactions on Information Systems](https://dblp.org/db/journals/tois/index.html)
