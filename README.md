@@ -18,6 +18,10 @@
 + [Nature Communications](https://www.nature.com/ncomms/)
 + [Humanities & Social Sciences Communications](https://www.nature.com/palcomms/)
 
+## Science系列
++ [Science](https://www.science.org/journal/science)
++ [Science Advances](https://www.science.org/journal/sciadv)
+  
 ## 数据挖掘领域英文期刊与会议
 + [ACM Transactions on Information Systems](https://dblp.org/db/journals/tois/index.html)
 + [IEEE Transactions on Knowledge and Data Engineering](https://dblp.org/db/journals/tkde/index.html)
