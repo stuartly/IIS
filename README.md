@@ -1,15 +1,12 @@
 
 ## 领域核心中文期刊
-+ [中国社会科学](https://navi.cnki.net/knavi/journals/ZSHK/detail?uniplatform=NZKPT) 
++ [中国社会科学](https://navi.cnki.net/knavi/journals/ZSHK/detail?uniplatform=NZKPT)
++ [中国科学：信息科学](https://navi.cnki.net/knavi/journals/PZKX/detail?uniplatform=NZKPTp)
 + [情报学报](https://navi.cnki.net/KNavi/JournalDetail?pcode=CJFD&pykm=QBXB&Year=&Issue=)
 + [中国图书馆学报](https://navi.cnki.net/knavi/journals/ZGTS/detail?uniplatform=NZKPT)
-+ [情报杂志](https://navi.cnki.net/KNavi/JournalDetail?pcode=CJFD&pykm=QBZZ&Year=&Issue=)
-+ [图书情报知识](https://navi.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=TSQC)
-+ [图书情报工作](https://navi.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=TSQB)
 + [软件学报](https://navi.cnki.net/knavi/journals/RJXB/detail?uniplatform=NZKPT)
 + [计算机学报](https://navi.cnki.net/knavi/journals/JSJX/detail?uniplatform=NZKPT)
 + [计算机研究与发展](https://navi.cnki.net/knavi/journals/JFYZ/detail?uniplatform=NZKPT)
-+ [中国科学：信息科学](https://navi.cnki.net/knavi/journals/PZKX/detail?uniplatform=NZKPTp)
 
 ## Nature系列
 + [Nature](https://www.nature.com/)
