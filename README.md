@@ -19,7 +19,7 @@
 + [Science](https://www.science.org/journal/science)
 + [Science Advances](https://www.science.org/journal/sciadv)
   
-## 数据挖掘领域英文期刊与会议
+## 数据挖掘领域A类期刊与会议
 + [ACM Transactions on Information Systems](https://dblp.org/db/journals/tois/index.html)
 + [IEEE Transactions on Knowledge and Data Engineering](https://dblp.org/db/journals/tkde/index.html)
 + [Information Processing and Management](https://dblp.org/db/journals/ipm/index.html)
@@ -30,7 +30,7 @@
 + [ACM SIGIR Conference on Research and Development in Information Retrieval](https://dblp.org/db/conf/sigir/index.html)
 
 
-## AI领域英文期刊与会议
+## AI领域A类期刊与会议
 + [Artificial Intelligence](http://dblp.uni-trier.de/db/journals/ai/)
 + [IEEE Transactions on Pattern Analysis and Machine Intelligence](http://dblp.uni-trier.de/db/journals/pami/) 
 + [Journal of Machine Learning Research](http://dblp.uni-trier.de/db/journals/jmlr/)
@@ -41,7 +41,7 @@
 + [International Joint Conference on Artificial Intelligence](http://dblp.uni-trier.de/db/conf/ijcai/)
 
 
-## 安全领域英文期刊与会议
+## 安全领域A类期刊与会议
 + [IEEE Transactions on Dependable and Secure Computing](https://dblp.org/db/journals/tdsc/index.html)
 + [IEEE Transactions on Information Forensics and Security](https://dblp.org/db/journals/tifs/index.html)
 + [ACM Conference on Computer and Communications Security](https://dblp.org/db/conf/ccs/index.html)
@@ -49,7 +49,7 @@
 + [Usenix Security Symposium](https://dblp.org/db/conf/uss/index.html)
 + [Network and Distributed System Security Symposium](https://dblp.org/db/conf/ndss/index.html)
 
-## 软工领域英文期刊与会议
+## 软工领域A类期刊与会议
 + [IEEE Transactions on Software Engineering](https://dblp.org/db/journals/tse/index.html)
 + [ACM Transactions on Programming Languages & Systems](https://dblp.org/db/journals/toplas/index.html)
 + [ACM Transactions on Software Engineering and Methodology](https://dblp.org/db/journals/tosem/index.html)
