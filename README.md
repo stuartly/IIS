@@ -30,7 +30,7 @@
 + [ACM SIGIR Conference on Research and Development in Information Retrieval](https://dblp.org/db/conf/sigir/index.html)
 
 
-## AI领域A类期刊与会议
+## 人工智能领域A类期刊与会议
 + [Artificial Intelligence](http://dblp.uni-trier.de/db/journals/ai/)
 + [IEEE Transactions on Pattern Analysis and Machine Intelligence](http://dblp.uni-trier.de/db/journals/pami/) 
 + [Journal of Machine Learning Research](http://dblp.uni-trier.de/db/journals/jmlr/)
@@ -63,28 +63,26 @@
 + [International Conference on Software Engineering](https://dblp.org/db/conf/icse/index.html)
 
 ## 信息科学领域SSCI期刊
-|序号|  期刊    |  分区   | JIF    | 
-|  :----:  | :----:   |:----:  |:----:  |
-|1|[International Journal of Information Management](https://dblp.org/db/journals/ijinfoman/index.html)| Q1| 21.0|
-|2|[Information & Management](https://dblp.org/db/journals/iam/index.html)| Q1| 9.9|
-|3|[European Journal of Information Systems](https://dblp.org/db/journals/ejis/index.html)|Q1|9.5|
-|4|[Information Processing and Management](https://dblp.uni-trier.de/db/journals/ipm/index.html)|Q1|8.6|
-|5|[Journal of Management Information Systems](https://dblp.uni-trier.de/db/journals/jmis/index.html)|Q1|7.7|
-|6|[MIS Quarterly](https://dblp.uni-trier.de/db/journals/misq/index.html)|Q1|7.3|
-|7|[Journal of Computer-Mediated Communication](https://dblp.org/db/journals/jcmc/index.html)|Q1|7.2|
-| 8| [Journal of Strategic Information Systems](https://dblp.org/db/journals/jsis/index.html)|Q1|7.0|
-|9|[Journal of Knowledge Management](https://dblp.org/db/journals/jkm/index.html)|Q1|7.0|
-|10|[Journal of Enterprise Information Management](https://www.runoob.com/markdown/md-table.html)|Q1|6.5|
-|11|[Information Systems Journal](https://dblp.uni-trier.de/db/journals/isj/index.html)|Q1|6.4|
-|12|[Information and Organization](https://dblp.uni-trier.de/db/journals/iando/index.html)|Q1|6.3|
-|13| [Journal of Association for Information Systems](https://dblp.uni-trier.de/db/journals/jais/index.html)|Q1|5.8|
-|14|[Journal of Information Technology](https://dblp.org/db/journals/jitech/index.html)|Q1|5.6|
-|15|[Information Systems Research](https://dblp.uni-trier.de/db/journals/isr/index.html)|Q1|4.9|
-|16|[Information Technology for Development](https://dblp.org/db/journals/itd/itd29.html)|Q2|4.8|
-|17|[Journal of Global Information Management](https://dblp.org/db/journals/jgim/index.html)|Q2|4.7|
-|18|[Scientometrics](https://dblp.org/db/journals/scientometrics/index.html)|Q2|3.9|
-|19|[Journal of Informetrics](https://dblp.org/db/journals/joi/index.html)|Q2|3.7|
-|20|[Journal of Association for Information Science and Technology](https://dblp.uni-trier.de/db/journals/jasis/index.html)|Q2|3.5|
++ [International Journal of Information Management](https://dblp.org/db/journals/ijinfoman/index.html)
++ [Information & Management](https://dblp.org/db/journals/iam/index.html)
++ [European Journal of Information Systems](https://dblp.org/db/journals/ejis/index.html)
++ [Information Processing and Management](https://dblp.uni-trier.de/db/journals/ipm/index.html)
++ [Journal of Management Information Systems](https://dblp.uni-trier.de/db/journals/jmis/index.html)
++ [MIS Quarterly](https://dblp.uni-trier.de/db/journals/misq/index.html)
++ [Journal of Computer-Mediated Communication](https://dblp.org/db/journals/jcmc/index.html)
++ [Journal of Strategic Information Systems](https://dblp.org/db/journals/jsis/index.html)
++ [Journal of Knowledge Management](https://dblp.org/db/journals/jkm/index.html)
++ [Journal of Enterprise Information Management](https://www.runoob.com/markdown/md-table.html)
++ [Information Systems Journal](https://dblp.uni-trier.de/db/journals/isj/index.html)
++ [Information and Organization](https://dblp.uni-trier.de/db/journals/iando/index.html)
++ [Journal of Association for Information Systems](https://dblp.uni-trier.de/db/journals/jais/index.html)
++ [Journal of Information Technology](https://dblp.org/db/journals/jitech/index.html)
++ [Information Systems Research](https://dblp.uni-trier.de/db/journals/isr/index.html)
++ [Information Technology for Development](https://dblp.org/db/journals/itd/itd29.html)
++ [Journal of Global Information Management](https://dblp.org/db/journals/jgim/index.html)
++ [Scientometrics](https://dblp.org/db/journals/scientometrics/index.html)
++ [Journal of Informetrics](https://dblp.org/db/journals/joi/index.html)
++ [Journal of Association for Information Science and Technology](https://dblp.uni-trier.de/db/journals/jasis/index.html)
 
 
 
