@@ -1,7 +1,7 @@
 
 ## 领域核心中文期刊
 + [中国社会科学](https://navi.cnki.net/knavi/journals/ZSHK/detail?uniplatform=NZKPT)
-+ [中国科学：信息科学](https://navi.cnki.net/knavi/journals/PZKX/detail?uniplatform=NZKPTp)
++ [中国科学：信息科学]([https://navi.cnki.net/knavi/journals/PZKX/detail?uniplatform=NZKPTp](https://navi.cnki.net/knavi/detail?p=YNBqQ8XiMBpHghIC2wbFz_n-V61QyNe13l3sb-Vmphrx76DvqDZRZzPwqVU7LFM94vIF9XIAzYeuqs-omb168dPlVKrxnkcBmu9RqT1xoMc81vg8qm07hw==&uniplatform=NZKPT))
 + [情报学报](https://navi.cnki.net/KNavi/JournalDetail?pcode=CJFD&pykm=QBXB&Year=&Issue=)
 + [中国图书馆学报](https://navi.cnki.net/knavi/journals/ZGTS/detail?uniplatform=NZKPT)
 + [软件学报](https://navi.cnki.net/knavi/journals/RJXB/detail?uniplatform=NZKPT)
